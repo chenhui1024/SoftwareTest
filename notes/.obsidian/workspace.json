@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "64d37f5a8d40191d",
+    "type": "split",
+    "children": [
+      {
+        "id": "00df0bb70612c41c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b26e8ee7db50056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-25上半年/18-面向对象/02-统一建模语言UML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-统一建模语言UML"
+            }
+          },
+          {
+            "id": "d2830525500fbaf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-25上半年/19-总结/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "0142fb399cb37f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-25上半年/2. 系统架构设计（+++）/01-软件架构概述.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-软件架构概述"
+            }
+          },
+          {
+            "id": "9ebbc47cf8ef3ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-25上半年/2. 系统架构设计（+++）/01-软件架构概述.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-软件架构概述"
+            }
+          },
+          {
+            "id": "6d5f703c8d0427c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-25上半年/18-面向对象/01-面向对象开发.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-面向对象开发"
+            }
+          },
+          {
+            "id": "e7d00c2eba30a858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-25上半年/7. 嵌入式/01-嵌入式微处理器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-嵌入式微处理器"
+            }
+          },
+          {
+            "id": "0e48adafc0182548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-25上半年/1. 软件工程（+++）/02-软件过程模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-软件过程模型"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a085aa345bfc7a35",
+    "type": "split",
+    "children": [
+      {
+        "id": "aec92ceb8eb37c65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea32bcddd747b579",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e14a6e06470e6290",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1d3325aa865df647",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64619f7810c64bca",
+    "type": "split",
+    "children": [
+      {
+        "id": "44565d8bf85d909b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf75effca7188a79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-25上半年/8. 计算机网络/01-计算机网络.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "01-计算机网络 的反向链接列表"
+            }
+          },
+          {
+            "id": "054b1b0348df5020",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-25上半年/8. 计算机网络/01-计算机网络.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "01-计算机网络 的出链列表"
+            }
+          },
+          {
+            "id": "e05d98bacc236379",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "481e01d2e4373e46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-25上半年/19-总结/未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d2830525500fbaf7",
+  "lastOpenFiles": [
+    "未命名.md",
+    "01-25上半年/19-总结/未命名.md",
+    "01-25上半年/19-总结",
+    "01-25上半年/18-面向对象/02-统一建模语言UML.md",
+    "01-25上半年/18-面向对象/01-面向对象开发.md",
+    "01-25上半年/7. 嵌入式/01-嵌入式微处理器.md",
+    "01-25上半年/2. 系统架构设计（+++）/01-软件架构概述.md",
+    "01-25上半年/2. 系统架构设计（+++）/02-软件架构风格.md",
+    "01-25上半年/1. 软件工程（+++）/02-软件过程模型.md",
+    "01-25上半年/1. 软件工程（+++）/05-系统设计（结构化和面向对象）.md",
+    "01-25上半年/18-面向对象/03-设计模式.md",
+    "01-25上半年/2. 系统架构设计（+++）/06-质量属性.md",
+    "01-25上半年/8. 计算机网络/01-计算机网络.md",
+    "01-25上半年/18-面向对象/附加-SysML.md",
+    "Pasted image 20250830164127.png",
+    "Pasted image 20250830121957.png",
+    "Pasted image 20250830121601.png",
+    "Pasted image 20250827230746.png",
+    "Pasted image 20250827230620.png",
+    "01-25上半年/1. 软件工程（+++）/信息系统开发方法.md",
+    "架构设计/开发方法.md",
+    "01-25上半年/1. 软件工程（+++）/04-系统分析及需求工程.md",
+    "12-面向对象.md",
+    "01-25上半年/1. 软件工程（+++）/软件系统建模.md",
+    "01-25上半年/1. 软件工程（+++）/09-基于构件的软件工程.md",
+    "01-25上半年/1. 软件工程（+++）/08-净室软件工程.md",
+    "01-25上半年/1. 软件工程（+++）/07-系统运行与维护.md",
+    "01-25上半年/1. 软件工程（+++）/06-测试基础知识.md",
+    "01-25上半年/1. 软件工程（+++）/03-逆向工程.md",
+    "01-25上半年/1. 软件工程（+++）/01-能力成熟度模型.md",
+    "01-25上半年/1. 软件工程（+++）/00-软件工程考点.md",
+    "01-25上半年/1. 软件工程（+++）/00-软件工程概述.md",
+    "Pasted image 20250823221633.png",
+    "Pasted image 20250823221514.png",
+    "Pasted image 20250816213901.png",
+    "Pasted image 20250812220928.png",
+    "Pasted image 20250812220910.png",
+    "01-25上半年/18-面向对象",
+    "01-25上半年/17-论文写作",
+    "01-25上半年/16. 案例分析",
+    "01-25上半年/15. 知识产权和标准化",
+    "01-25上半年/14. 未来信息综合技术",
+    "01-25上半年/13. 软件架构的演化和维护",
+    "01-25上半年/12. 项目管理",
+    "01-25上半年/11. 信息安全",
+    "01-25上半年/10. 信息系统"
+  ]
+}

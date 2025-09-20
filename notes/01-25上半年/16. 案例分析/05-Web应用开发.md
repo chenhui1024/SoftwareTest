@@ -1,0 +1,14 @@
+![[Pasted image 20250512205807.png]]
+### 1. web技术演变
+![[Pasted image 20250512205830.png]]
+![[Pasted image 20250512205845.png]]
+![[Pasted image 20250512205902.png]]
+![[Pasted image 20250512205912.png]]
+![[Pasted image 20250512205917.png]]
+### 2. REST
+![[Pasted image 20250512210004.png]]
+### 3. 微服务
+#### 3.1 微服务的优势
+![[Pasted image 20250512210119.png]]
+#### 3.2 微服务的挑战
+![[Pasted image 20250512210200.png]]
