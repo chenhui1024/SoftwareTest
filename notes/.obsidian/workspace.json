@@ -4,39 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "6b94900dfa48913a",
+        "id": "e3d3774ea7040cb1",
         "type": "tabs",
         "children": [
           {
-            "id": "624d07f4a63c5aa9",
+            "id": "e7f38d0d9ba2956c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-25上半年/18-面向对象/03-设计模式.md",
+                "file": "01-25上半年/1. 软件工程（+++）/02-软件过程模型.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03-设计模式"
+              }
             }
           },
           {
-            "id": "a6cecb01fe7d0980",
+            "id": "71ba9413743eff46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构设计/开发方法.md",
+                "file": "01-25上半年/1. 软件工程（+++）/09-基于构件的软件工程.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "开发方法"
+              }
+            }
+          },
+          {
+            "id": "64b286126d93468b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-25上半年/2. 系统架构设计（+++）/05-基于架构的软件开发.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbdac81694bf6352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-25上半年/17-论文写作/03-写作框架.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -55,11 +75,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -74,9 +91,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "搜索"
+              }
             }
           },
           {
@@ -84,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "书签"
+              "state": {}
             }
           }
         ]
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "架构设计/开发方法.md",
+                "file": "01-25上半年/17-论文写作/03-写作框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,9 +130,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "开发方法 的反向链接列表"
+              }
             }
           },
           {
@@ -128,12 +139,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "架构设计/开发方法.md",
+                "file": "01-25上半年/17-论文写作/03-写作框架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "开发方法 的出链列表"
+              }
             }
           },
           {
@@ -143,12 +152,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -157,13 +162,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "架构设计/开发方法.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "开发方法 的大纲"
+                "file": "01-25上半年/17-论文写作/03-写作框架.md"
+              }
             }
           }
         ],
@@ -175,7 +175,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -184,34 +183,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a6cecb01fe7d0980",
+  "active": "dbdac81694bf6352",
   "lastOpenFiles": [
-    "01-25上半年/18-面向对象/03-设计模式.md",
-    "01-25上半年/18-面向对象/02-统一建模语言UML.md",
-    "01-25上半年/18-面向对象/01-面向对象开发.md",
-    "01-25上半年/17-论文写作/03-写作框架.md",
-    "01-25上半年/17-论文写作/02-论文写作框架.md",
-    "01-25上半年/16. 案例分析/07-大数据架构设计.md",
-    "01-25上半年/16. 案例分析/06-安全架构设计.md",
-    "01-25上半年/16. 案例分析/05-Web应用开发.md",
-    "01-25上半年/16. 案例分析/04-面向服务的架构设计（SOA）.md",
-    "01-25上半年/16. 案例分析/03-云原生架构设计.md",
-    "01-25上半年/16. 案例分析/02-层次式架构设计.md",
-    "01-25上半年/16. 案例分析/01-信息系统架构设计.md",
-    "01-25上半年/15. 知识产权和标准化/01-知识产权和标准化.md",
-    "01-25上半年/14. 未来信息综合技术/04-补充知识.md",
-    "01-25上半年/14. 未来信息综合技术/03-云计算和大数据.md",
-    "01-25上半年/14. 未来信息综合技术/02-边缘计算.md",
-    "01-25上半年/14. 未来信息综合技术/01-信息物理系统.md",
-    "01-25上半年/13. 软件架构的演化和维护/软件架构演化和定义.md",
+    "Pasted image 20251022212433.png",
+    "12-面向对象.md",
+    "01-25上半年/2. 系统架构设计（+++）/05-基于架构的软件开发.md",
+    "01-25上半年/1. 软件工程（+++）/02-软件过程模型.md",
+    "01-25上半年/1. 软件工程（+++）/09-基于构件的软件工程.md",
+    "01-25上半年/2. 系统架构设计（+++）/02-软件架构风格.md",
+    "01-25上半年/7. 嵌入式/01-嵌入式微处理器.md",
+    "01-25上半年/5. 计算机基础/04-存储管理.md",
+    "01-25上半年/5. 计算机基础/03-系统工程.md",
+    "01-25上半年/5. 计算机基础/02-计算机语言.md",
+    "01-25上半年/5. 计算机基础/01-计算机硬件.md",
+    "01-25上半年/2. 系统架构设计（+++）/01-软件架构概述.md",
+    "01-25上半年/1. 软件工程（+++）/信息系统开发方法.md",
+    "01-25上半年/1. 软件工程（+++）/软件系统建模.md",
+    "01-25上半年/1. 软件工程（+++）/10-软件工程补充知识.md",
+    "01-25上半年/1. 软件工程（+++）/08-净室软件工程.md",
+    "01-25上半年/1. 软件工程（+++）/07-系统运行与维护.md",
+    "01-25上半年/1. 软件工程（+++）/06-测试基础知识.md",
+    "01-25上半年/1. 软件工程（+++）/05-系统设计（结构化和面向对象）.md",
+    "01-25上半年/1. 软件工程（+++）/04-系统分析及需求工程.md",
+    "01-25上半年/1. 软件工程（+++）/03-逆向工程.md",
+    "01-25上半年/1. 软件工程（+++）/01-能力成熟度模型.md",
+    "01-25上半年/1. 软件工程（+++）/00-软件工程考点.md",
+    "01-25上半年/1. 软件工程（+++）/00-软件工程概述.md",
     "01-25上半年/11. 信息安全/06-网络完全协议.md",
     "01-25上半年/11. 信息安全/05-网络安全技术.md",
-    "01-25上半年/11. 信息安全/04-信息安全的抗攻击技术.md",
-    "01-25上半年/11. 信息安全/03-信息安全技术.md",
-    "01-25上半年/11. 信息安全/02-安全系统组成框架.md",
-    "01-25上半年/11. 信息安全/01-信息安全基础知识.md",
-    "01-25上半年/10. 信息系统/16-电子商务.md",
-    "01-25上半年/10. 信息系统/15-企业应用集成.md",
     "3.论文3-经典范文剖析_九大精华论文主题-[00-16-02][20251008-223337263].jpg",
     "Pasted image 20251008223326.png",
     "Pasted image 20251008223305.png",
@@ -222,7 +221,6 @@
     "Pasted image 20250830121601.png",
     "Pasted image 20250827230746.png",
     "Pasted image 20250827230620.png",
-    "Pasted image 20250823221633.png",
     "01-25上半年/18-面向对象",
     "01-25上半年/17-论文写作",
     "01-25上半年/16. 案例分析",
